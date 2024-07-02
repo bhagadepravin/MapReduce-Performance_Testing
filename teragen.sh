@@ -7,8 +7,8 @@ trap "" HUP
 #   exit 1
 #fi
 
-#MR_EXAMPLES_JAR=/usr/hdp/2.2.0.0-2041/hadoop-mapreduce/hadoop-mapreduce-examples.jar
-MR_EXAMPLES_JAR=/opt/cloudera/parcels/CDH/jars/hadoop-mapreduce-examples-3.1.1.7.2.2.2-1.jar
+
+MR_EXAMPLES_JAR=/usr/odp/current/hadoop-mapreduce-client/hadoop-mapreduce-examples.jar
 
 
 #SIZE=500G
