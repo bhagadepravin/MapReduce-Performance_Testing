@@ -39,7 +39,7 @@ DATE=`date +%Y-%m-%d:%H:%M:%S`
 RESULTSFILE="./$LOGDIR/teragen_results_$DATE"
 
 
-OUTPUT=/user/sunilemanjee/data/sandbox/poc/teragen/${SIZE}-terasort-input
+OUTPUT=/tmp/teragen/${SIZE}-terasort-input
 
 # teragen.sh
 # Kill any running MapReduce jobs
