@@ -17,9 +17,11 @@ MR_EXAMPLES_JAR=/usr/odp/current/hadoop-mapreduce-client/hadoop-mapreduce-exampl
 #SIZE=100G
 #ROWS=1000000000
 
- SIZE=1T
- ROWS=10000000000
-
+ #SIZE=1T
+ #ROWS=10000000000
+ SIZE=1G
+ ROWS=10000000
+ 
 # SIZE=10G
 # ROWS=100000000
 
